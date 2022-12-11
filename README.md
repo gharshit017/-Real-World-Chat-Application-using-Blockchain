@@ -20,3 +20,7 @@ You may also see any lint errors in the console.
 # npm test
 Launches the test runner in the interactive watch mode.
 See the section about [running tests] for more information.
+
+# SCREENSHOT
+
+![Screenshot (2006)](https://user-images.githubusercontent.com/118952854/206887227-f6e7e019-ad8d-4778-93d3-16fce53c9ec0.png)
