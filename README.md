@@ -6,6 +6,10 @@ It is a peer to peer netwrok connecting tool in virtual world.
 
 In the project directory, you can run:
 
+## node index.js<|endoftext|>
+
+## cd react-gun$ gunjs -c config.json
+
 # npm start
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in your browser.
