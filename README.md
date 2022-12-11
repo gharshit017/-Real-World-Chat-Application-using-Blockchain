@@ -6,9 +6,9 @@ It is a peer to peer netwrok connecting tool in virtual world.
 
 In the project directory, you can run:
 
-## node index.js<|endoftext|>
+## node index.js
 
-## cd react-gun$ gunjs -c config.json
+## cd react-gun($ gunjs -c config.json)
 
 # npm start
 Runs the app in the development mode.
